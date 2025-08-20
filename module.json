@@ -1,0 +1,59 @@
+{
+  "title": "Return of the Runelords 2e Conversion (Unofficial)",
+  "description": "2e Conversion of Return of the Runelords. Uses a conversion document from Trey Bryner on https://www.pathfinderinfinite.com/product/428355/Runelords-in-a-New-Age-A-Return-of-the-Runelords-2e-Conversion",
+  "version": "0.0.1",
+  "scripts": [],
+  "url": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion",
+  "license": "LICENSE",
+  "styles": [],
+  "packs": [
+    {
+      "name": "actors",
+      "path": "packs/actors",
+      "label": "Actors",
+      "type": "Actor",
+      "private": false,
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "flags": {}
+    },
+    {
+      "name": "items",
+      "path": "packs/items",
+      "label": "Items",
+      "type": "Item",
+      "private": false,
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Return of the Runelords Conversion",
+      "sorting": "a",
+      "packs": [
+        "actors",
+        "items"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/releases/latest/download/module.json",
+  "download": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/releases/download/0.0.1/release.zip",
+  "id": "pf2e-return-of-the-runelords-conversion",
+  "authors": [
+    {
+      "name": "Bernhard Posselt",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e"
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  }
+}
