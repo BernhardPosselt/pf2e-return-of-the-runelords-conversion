@@ -10,7 +10,24 @@ It includes several changes, some of which are likely mistakes, among those:
 * Increased damage for non-scaled weapon damage like the Shuriken (upped to moderate damage for its level) or 2d8+3 damage instead of 1d8+4 for a level 6 low damage creature (misunderstanding here might be that not having a striking rune on their weapon halves NPC damage)
 * Changes to spell DCs and attack rolls that are either based on caster NPCs or have DC/Attack raised to Elite/Weak but not the other stat or are way too low for their level (NPC spell attack modifiers are not equal to DC-10 but usually DC-8)
 * Some spells that did not exist or did not fit have been adjusted 
-* Baraket has been rebalanced to level 5 to be in line with damage and skill check expectations while the other options are still available at level 12 and 20 respectively
+
+## Asset Locations
+
+Assets are expected in a folder at **Data/pf2e-return-of-the-runelords-assets**
+
+The following locations are used:
+
+TODO: detail all portrait, token and item locations
+
+## Token Sizes
+
+Non medium sized tokens with the following Subject Scale Correction require the following Scale settings:
+
+* 1.5x 
+  * tiny: 1.5
+  * small: 1.2
+* 2x tokens require the following scaling factors
+  * small: 1.6
 
 ## License
 
