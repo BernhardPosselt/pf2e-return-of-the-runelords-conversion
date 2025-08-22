@@ -4,12 +4,11 @@ This module includes actors and items from [Trey Bryner's Conversion](https://ww
 
 It includes several changes, some of which are likely mistakes, among those:
 
-* Remastered: All abilities, spells and equipment has been remastered
+* Remastered: All abilities, spells and equipment have been remastered
 * Adjusted rarity modifiers: Unique for named NPCs, uncommon for NPCs related to the adventure
-* For statblocks that use Weak/Elite and have additional modifications, the Weak/Elite template has been included in the stats itself so you can add/remove them an additional time
+* For some statblocks that use Weak/Elite and have additional modifications, the Weak/Elite template has been included in the stats itself so you can add/remove them an additional time
 * Increased damage for non-scaled weapon damage like the Shuriken (upped to moderate damage for its level) or 2d8+3 damage instead of 1d8+4 for a level 6 low damage creature (misunderstanding here might be that not having a striking rune on their weapon halves NPC damage)
 * Changes to spell DCs and attack rolls that are either based on caster NPCs or have DC/Attack raised to Elite/Weak but not the other stat or are way too low for their level (NPC spell attack modifiers are not equal to DC-10 but usually DC-8)
-* Some spells that did not exist or did not fit have been adjusted 
 
 ## Asset Locations
 
