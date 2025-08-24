@@ -21,7 +21,6 @@ The following locations are used:
 * **portraits/Adhukait Jailers.webp**
 * **portraits/Alaznist.webp**
 * **portraits/Alaznist Duplicat.webp**
-* **portraits/Alaznist.webp**
 * **portraits/Alden Tilaresk.webp**
 * **portraits/Runelord Angothane.webp**
 * **portraits/Apostle of Pain.webp**
@@ -120,8 +119,6 @@ The following locations are used:
 * **portraits/Xanderghul.webp**
 * **portraits/Xanesha.webp**
 * **portraits/Yamasoth Cultist.webp**
-* **portraits/Yamasoth Cultist.webp**
-* **portraits/Peacock Spirit Cultist.webp**
 * **portraits/Peacock Spirit Cultist.webp**
 * **portraits/Zeralisce.webp**
 * **portraits/Zerrund.webp**
@@ -134,7 +131,6 @@ The following locations are used:
 * **portraits/Adhukait Jailer.webp**
 * **tokens/Alaznist-2x.webp**
 * **tokens/Alaznist Duplicate-1.5x.webp**
-* **tokens/Alaznist-2x.webp**
 * **tokens/Alden Tilaresk.webp**
 * **tokens/Runelord Angothane-2x.webp**
 * **tokens/Apostle of Pain-2x.webp**
@@ -233,8 +229,6 @@ The following locations are used:
 * **tokens/Xanderghul-1.5x.webp**
 * **tokens/Xanesha-1.5x.webp**
 * **tokens/Yamasoth Cultist-1.5x.webp**
-* **tokens/Yamasoth Cultist-1.5x.webp**
-* **tokens/Peacock Spirit Cultist.webp**
 * **tokens/Peacock Spirit Cultist.webp**
 * **tokens/Zeralisce.webp**
 * **tokens/Zerrund.webp**
