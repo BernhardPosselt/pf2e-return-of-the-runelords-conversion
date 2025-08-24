@@ -8,6 +8,6 @@ const data = JSON.parse(fs.readFileSync('module.json', 'utf-8'));
 
 // update version
 data.version = version;
-data.download = `https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-map-remake/releases/download/${version}/release.zip`;
+data.download = `https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/releases/download/${version}/release.zip`;
 
 fs.writeFileSync('module.json', JSON.stringify(data, null, 4));
