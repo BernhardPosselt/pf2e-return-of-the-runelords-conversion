@@ -246,6 +246,8 @@ The following locations are used:
 * **items/Sihedron.webp**
 * **items/Sorshens Sinuous Guisarme.webp**
 * **items/Tannaris Sword of Envy.webp**
+* **items/Shadow Stylus.webp**
+* **items/Zuthas Reaping Scythe.webp**
 
 
 ## Tokens
