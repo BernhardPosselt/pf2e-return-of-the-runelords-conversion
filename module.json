@@ -1,7 +1,7 @@
 {
     "title": "Return of the Runelords 2E Conversion (Unofficial)",
     "description": "2e Conversion of Return of the Runelords. Uses the conversion document from Trey Bryner on https://www.pathfinderinfinite.com/product/428355/Runelords-in-a-New-Age-A-Return-of-the-Runelords-2e-Conversion",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "scripts": [],
     "url": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion",
     "license": "LICENSE",
@@ -37,7 +37,7 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/refs/heads/master/module.json",
-    "download": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/releases/download/0.0.2/release.zip",
+    "download": "https://github.com/BernhardPosselt/pf2e-return-of-the-runelords-conversion/releases/download/0.0.3/release.zip",
     "id": "pf2e-return-of-the-runelords-conversion",
     "authors": [
         {
