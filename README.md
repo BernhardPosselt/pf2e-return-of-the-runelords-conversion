@@ -4,7 +4,7 @@ This module includes actors and items from [Trey Bryner's Conversion (OGL & CUP 
 
 It includes several changes, some of which are likely mistakes, among those:
 
-* Remastered abilities, spells and equipment (although some sin magic abilities have not been converted)
+* Remastered abilities, spells and equipment
 * Rarity changes, such as unique for named NPCs, uncommon for NPCs related to the adventure
 * For some statblocks that use Weak/Elite and have additional modifications, the Weak/Elite template has been included in the stats itself so you can add/remove them an additional time
 * Increased damage for some NPCs that had damage significantly below the low damage column for their level
