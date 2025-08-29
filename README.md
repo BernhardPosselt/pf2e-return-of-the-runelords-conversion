@@ -237,9 +237,11 @@ The following locations are used:
 * **tokens/Zuthas Fragment-2x.webp**
 
 **Items**
+* **items/Abyssal Runestone.webp**
 * **items/Alaznists Hateful Ranseur.webp**
 * **items/Baraket Sword of Pride.webp**
 * **items/Belimariuss Invidious Halberd.webp**
+* **items/Bone Grimoir.webp**
 * **items/Karzougs Burning Glaive.webp**
 * **items/Krunes Dragontooth Spear.webp**
 * **items/Pendant of First Tears.webp**
