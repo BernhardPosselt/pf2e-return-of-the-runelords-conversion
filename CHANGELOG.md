@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2025-08-29
+
+### Fixed
+
+* Fix Sorshen missing Greater Rune of Sin feature
+* Remaster Runelord features:
+  * **Gluttony**: Necromany -> Void trait
+  * **Lust**: Enchantment -> Mental trait
+  * **Wrath**: Evocation -> Energy Damage
+  * **Envy**: Abjuration -> Defensive Spells
+  * **Greed**: Transmutation -> Morph/Polymorph trait
+  * **Illusion**: Illusion -> Illusion trait
+
+
 ## [0.0.1] - 2025-08-19
 
 ### Added
