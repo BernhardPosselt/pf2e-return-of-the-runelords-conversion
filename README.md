@@ -276,10 +276,15 @@ All content is licensed under Paizo's [CUP](https://paizo.com/licenses/community
 
 > This FoundryVTT module uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/licenses/communityuse). We are expressly prohibited from charging you to use or access this content. This FoundryVTT module is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](paizo.com).
 
-## Releasing a New Version
+## Release a New Version
 
-Requires **zip**, **curl**, **jq**
+Set the following env variables:
 
-First update the version in the module.json file, then run:
+* **FOUNDRY_RETURN_CONVERSION_TOKEN**: Token [from the package website](https://foundryvtt.com/packages/pf2e-return-of-the-runelords-conversion/edit)
+* **GITHUB_TOKEN**: [Fine Grained Access Token](https://github.com/settings/personal-access-tokens) with permissions: **Metadata: read**, **Content: read and write**
 
-    ./release.sh 0.0.2 "$GITHUB_TOKEN" "$FOUNDRY_RETURN_CONVERSION_TOKEN"
+Update the version **build.gradle.kts**
+
+Run:
+
+    ./gradlew foundryvttRelease
