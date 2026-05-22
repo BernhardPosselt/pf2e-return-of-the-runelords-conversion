@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "at.posselt"
-version = "2.1.2"
+version = "0.0.6"
 
 foundryvttModule {
     githubUser = "BernhardPosselt"
