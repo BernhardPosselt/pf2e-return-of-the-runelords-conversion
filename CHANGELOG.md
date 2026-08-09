@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2026-08-09
+
+### Fixed
+
+* Correctly place actors from folder F in book 1
+
 ## [0.0.6] - 2026-05-22
 
 ### Changed
