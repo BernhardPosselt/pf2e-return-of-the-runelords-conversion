@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+### Added
+
+* Book 2: Added Minor Boon of Ashava
+
 ### Fixed
 
-* Book 1 - Armory: E4 is now "boarded up" as in: door is locked
+* Book 1 - Armory: Provide a separate Horned Fang Bruiser Statblock
 
 ## [0.0.7] - 2026-08-09
 
